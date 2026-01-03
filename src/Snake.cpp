@@ -40,7 +40,6 @@ const std::vector<std::pair<int, int>>& Snake::getBody() const {
 }
 
 void Snake::setDirection(const int x, const int y) {
-    // Не разрешаем разворот на 180
     if ((x == 0 && y == 1 && dx == 0 && dy == -1) ||
         (x == 0 && y == -1 && dx == 0 && dy == 1) ||
         (x == 1 && y == 0 && dx == -1 && dy == 0) ||
