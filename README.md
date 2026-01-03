@@ -36,3 +36,10 @@ sudo pacman -S gcc cmake ncurses git
 
 ## 🚀 How to Run
 
+### Using Makefile:
+```bash
+git clone https://github.com/dav1337/snake_game.git
+cd snake_game
+make
+make run
+```
