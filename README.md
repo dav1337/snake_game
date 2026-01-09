@@ -47,6 +47,4 @@ make run
 ## To do
 - **Add interactive menu**
 - **Add a primitive point system**
-- **Add support for all keyboard layouts (if its possible idk really)**
-- **Fix movement system**
 - **Make the "project haha" cross-platform**
